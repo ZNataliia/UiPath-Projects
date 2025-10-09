@@ -1,0 +1,6 @@
+{
+  "Name": "entryNewUsersToCRM_Enterprise",
+  "ProjectType": "Process",
+  "Description": "Bussiness gets daily emails with list of customers. Robot checks email addresses, enters all new customers to CRM and send any error reports",
+  "MainFile": "Main.xaml"
+}

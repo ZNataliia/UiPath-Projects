@@ -1,0 +1,14 @@
+﻿{
+  "Name": "New Customer",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "hBg_i0DvD0-hs-aHpplgog",
+  "Reference": "oG91vJbq2k6ee4G1dea7aw/hBg_i0DvD0-hs-aHpplgog",
+  "ParentRef": "oG91vJbq2k6ee4G1dea7aw/hVKkvhj3_Eu2F0g6KSx7jg",
+  "Created": "2025-10-10T09:27:47.9340871Z",
+  "Updated": "2025-10-10T09:27:47.9340871Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

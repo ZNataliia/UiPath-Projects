@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Gender Male Female",
+  "Type": "Element",
+  "Id": "SJ_tyrUptkuDsmN0ZymfJQ",
+  "Reference": "oG91vJbq2k6ee4G1dea7aw/SJ_tyrUptkuDsmN0ZymfJQ",
+  "ParentRef": "oG91vJbq2k6ee4G1dea7aw/hVKkvhj3_Eu2F0g6KSx7jg",
+  "Created": "2025-10-10T09:20:17.5691447Z",
+  "Updated": "2025-10-10T09:20:17.5691447Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

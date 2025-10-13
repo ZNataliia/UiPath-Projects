@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tyo5TpUFA0mZfJ86M5gqMQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationplayground.com/crm/add-customer.html" CVScreenId="e81f75fd-9394-40a2-bf88-5fc6fdfaf2fc" CvElementArea="695, 730, 527, 54" CvType="InputBox" DesignTimeRectangle="697, 731, 525, 51" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='LastName' tag='INPUT' type='text' class='form-control' placeholder='Enter last name' aaname='Last Name' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="a0ff0ef4-1ed2-441f-9898-096767a7c152" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Customer Service - Add Customer' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e81f75fd-9394-40a2-bf88-5fc6fdfaf2fc" CvTextArea="695, 699, 107, 19" CvTextArgument="Last Name" CvType="Text" DesignTimeRectangle="697, 694, 106, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Last Name' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Last Name' /&gt;" Guid="6aea7105-97b9-48b4-af7b-c82eb953e855" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2411bbb8a46e7af52094321a1184c658.png" xmlns="">05GD3D0d6eU6zd2DnCXyd0g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

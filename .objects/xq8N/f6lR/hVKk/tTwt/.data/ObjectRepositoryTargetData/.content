@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EwTtD7NnL0Sl3x_NzAJflQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationplayground.com/crm/add-customer.html" CVScreenId="aa28c9e9-b3b6-4fd8-8bbf-ffa51eb57bc4" CvElementArea="694, 918, 23, 22" CvType="CheckBox" DesignTimeRectangle="697, 919, 19, 19" ElementType="CheckBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' type='checkbox' /&gt;" Guid="6c484236-1e71-40ff-9d5f-3034ad352a91" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Customer Service - Add Customer' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="aa28c9e9-b3b6-4fd8-8bbf-ffa51eb57bc4" CvElementArea="694, 918, 23, 22" CvTextArea="719, 923, 211, 18" CvTextArgument="Add to promotional list" CvType="CheckBox" DesignTimeRectangle="697, 913, 525, 33" ElementType="CheckBox" FuzzySelectorArgument="&lt;webctrl class='form-group' type='' tag='DIV' aaname=' &amp;#x9;&amp;#x9; Add to promotional list           ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="bbe8b8d9-a20d-4345-94e8-e39a14fb31b0" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0d815213489aa11888089c5621a8a51e.png" xmlns="">0T6SLStpeq0u29APfXGJKtg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

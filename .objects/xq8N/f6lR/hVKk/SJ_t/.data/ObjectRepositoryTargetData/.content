@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8UWjg_4k6ka3jq_xoXiGew" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationplayground.com/crm/add-customer.html" CVScreenId="d425dc3f-7ac9-4f0d-b102-a02e44fc6a5d" CvElementArea="857, 861, 25, 24" CvType="RadioButton" DesignTimeRectangle="860, 863, 20, 19" ElementType="RadioButton" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl idx='2' tag='INPUT' type='radio' /&gt;" Guid="af795c71-8936-48f8-8747-f4ada5c32fab" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Customer Service - Add Customer' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="697, 857, 525, 33" FuzzySelectorArgument="&lt;webctrl class='form-group' type='' tag='DIV' aaname='   &amp;#x9;&amp;#x9; &amp;#x9;&amp;#x9; Male &amp;#x9;&amp;#x9; Female           ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Gender:  Male  Female' /&gt;" Guid="fec9b934-59c5-45ba-895b-8bb61024a3f9" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="49ed57da12d8a2c117e9df95645d3ceb.png" xmlns="">0HFwdBxbRVU6_RKIvir4a8A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

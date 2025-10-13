@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ehC2caAmSEmhgOlclrDNjA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationplayground.com/crm/customer-success.html" CVScreenId="98fc2304-6a37-4832-aba7-51104aa09010" CvTextArea="147, 317, 305, 19" CvTextArgument="Success! New customer added." CvType="Text" DesignTimeRectangle="127, 299, 1665, 56" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='Success' tag='DIV' /&gt;" Guid="6d3da347-cd18-479d-a45c-b9e02c1d79ab" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Customers' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="98fc2304-6a37-4832-aba7-51104aa09010" CvTextArea="125, 393, 502, 40" CvTextArgument="Our Happy Customers" CvType="Text" DesignTimeRectangle="127, 385, 1665, 60" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H2' type='' class='' aaname='Our Happy Customers' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Our Happy Customers' /&gt;" Guid="517f929d-7f7f-44a0-81db-0d363f5ad800" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7c89d974b4701b063492dbd4ca209f1c.png" xmlns="">0JbQrCHyzX0Ot4wHoyg7TGg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

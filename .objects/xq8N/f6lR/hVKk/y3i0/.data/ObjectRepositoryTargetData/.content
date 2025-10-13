@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_Wk7avXjU0-IB9KfQBMBFA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationplayground.com/crm/add-customer.html" CVScreenId="e81f75fd-9394-40a2-bf88-5fc6fdfaf2fc" CvElementArea="696, 840, 527, 54" CvType="InputBox" DesignTimeRectangle="697, 842, 525, 51" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='City' tag='INPUT' type='text' class='form-control' placeholder='Enter city' aaname='City' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="fe1150f8-efb0-4814-9982-a264edf6ef60" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Customer Service - Add Customer' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e81f75fd-9394-40a2-bf88-5fc6fdfaf2fc" CvTextArea="695, 810, 42, 22" CvTextArgument="City" CvType="Text" DesignTimeRectangle="697, 805, 40, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='form-label' tag='LABEL' type='' aaname='City' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='City' /&gt;" Guid="48d77f40-fcbc-489f-a65c-1dc88c939c8a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="16179f5fbf86c5f678acb71ad01178ad.png" xmlns="">0T6bXOxtcSESszIuqZ-tDTA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3OC4hO76lEurksRSHkdJ7w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationplayground.com/crm" CVScreenId="b5b62e9e-056f-4baa-bdac-fcd607cbfa7c" DesignTimeRectangle="1594, 271, 65, 75" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='SignIn' tag='A' /&gt;" Guid="ed4900fc-6584-45da-b28f-35e908584e97" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Customer Service' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b5b62e9e-056f-4baa-bdac-fcd607cbfa7c" CvElementArea="840, 281, 484, 55" CvType="InputBox" DesignTimeRectangle="843, 283, 480, 51" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' /&gt;" Guid="8c4e20f6-cbc4-4462-b132-1dc4c283d734" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="183a923fded641c01a7a9f4e49346cd2.png" xmlns="">0LI23myknbE6Fz38x7F7Abw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

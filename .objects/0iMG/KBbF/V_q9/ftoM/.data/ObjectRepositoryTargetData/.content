@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ASs0Wzk_xkaDrAMuTh7Mog" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationplayground.com/crm/login.html" CVScreenId="6c11d673-8daa-4b0a-b02c-5d26d92cae05" CvElementArea="705, 738, 108, 53" CvTextArea="725, 753, 69, 19" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="708, 739, 104, 50" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='submit-id' tag='BUTTON' /&gt;" Guid="0bbff5d8-aae1-4620-8094-fd6467afc8ee" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Customer Service - Login' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="708, 472, 525, 317" ElementType="Container" FuzzySelectorArgument="&lt;webctrl tag='FORM' type='' class='' aaname='                         &amp;#x9;     &amp;#x9;   &amp;#x9;' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Email address&amp;#xA;Password&amp;#xA;Remember me&amp;#xA;Submit' /&gt;" Guid="ea1fffa1-0d3e-4da0-99e2-28aed7564433" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e55444e8cf0194a60aaf01bed3a7faa9.png" xmlns="">0rxwZTaaSl06VrrRmXGSbDg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

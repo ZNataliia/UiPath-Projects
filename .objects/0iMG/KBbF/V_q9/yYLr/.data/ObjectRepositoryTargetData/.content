@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="o0LRvC7wN0GBec1Oi2VD-w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationplayground.com/crm/login.html" CVScreenId="38b8b798-a372-468c-a4bf-1d694d5070af" CvTextArea="915, 411, 109, 48" CvTextArgument="Login" CvType="Text" DesignTimeRectangle="708, 407, 525, 50" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='H2' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='H2' type='' class='text-center' aaname='Login' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Login' /&gt;" Guid="88418bb4-3c03-44dd-a667-3ef4d5514d38" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Customer Service - Login' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="708, 472, 525, 317" ElementType="Container" FullSelectorArgument="&lt;webctrl tag='FORM' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='FORM' type='' class='' aaname='                         &amp;#x9;     &amp;#x9;   &amp;#x9;' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Email address&amp;#xA;Password&amp;#xA;Remember me&amp;#xA;Submit' /&gt;" Guid="06888eac-cffd-4edb-a13d-d07d31d52f2e" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="061c51b88ec4ef2669dace3c27c950f6.png" xmlns="">0ZjHgq5yM0E2CbV3d6J69qA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

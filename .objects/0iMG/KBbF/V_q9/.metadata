@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Customer Service",
+  "Type": "Screen",
+  "Id": "V_q9fO0FvEOevMnbTJoz2g",
+  "Reference": "oG91vJbq2k6ee4G1dea7aw/V_q9fO0FvEOevMnbTJoz2g",
+  "ParentRef": "oG91vJbq2k6ee4G1dea7aw/KBbFocUAhkG6XUu9xEXm5A",
+  "Created": "2025-10-10T07:33:21.2285188Z",
+  "Updated": "2025-10-10T07:33:21.2285188Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

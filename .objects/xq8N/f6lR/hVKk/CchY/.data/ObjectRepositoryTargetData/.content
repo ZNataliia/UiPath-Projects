@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zrMrQmugwU2w1k7cuU-vEA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationplayground.com/crm/add-customer.html" CVScreenId="d425dc3f-7ac9-4f0d-b102-a02e44fc6a5d" CvElementArea="803, 968, 108, 51" CvTextArea="824, 984, 67, 19" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="806, 969, 104, 50" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='BUTTON' /&gt;" Guid="64cacc30-df10-4fa2-828f-377e2c007b7d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Customer Service - Add Customer' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d425dc3f-7ac9-4f0d-b102-a02e44fc6a5d" CvElementArea="694, 968, 107, 51" CvTextArea="714, 984, 67, 19" CvTextArgument="Cancel" CvType="Button" DesignTimeRectangle="697, 969, 103, 50" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='loginform' tag='A' type='' class='btn btn-default' aaname='Cancel' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Cancel' /&gt;" Guid="ed6ebb04-d1bb-437c-8ebb-bff0752dfcea" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d035068bbc325dec62db838c86745803.png" xmlns="">08BF-4tT3GEqLX8BPxjdfQw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

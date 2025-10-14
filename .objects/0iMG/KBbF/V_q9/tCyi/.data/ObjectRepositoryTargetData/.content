@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QZrLeZR6pUaumZfqd4yKrA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationplayground.com/crm/customers.html" CVScreenId="f781046d-528a-4d65-b303-304b42a77210" DesignTimeRectangle="665, 344, 612, 36" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='Change your password' role='dialog' /&gt;&lt;ctrl name='Change your password' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Change your password' role='dialog' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='Change your password' role='grouping' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Change your password' /&gt;" Guid="b6ce550d-dcb8-4e29-a1a2-3712b58f8d0a" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Customers - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="f781046d-528a-4d65-b303-304b42a77210" DesignTimeRectangle="1181, 500, 96, 57" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Change your password' role='dialog' /&gt;&lt;ctrl name='OK' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Change your password' role='dialog' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='OK' role='push button' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='OK' /&gt;" Guid="7834e4dd-9b71-43e1-a1e5-7b530e8e41b7" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f2ab8a0e2593180b799dcc19aec01967.png" xmlns="">0l5VFrqy-h0OhSqlKaNg5qA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
